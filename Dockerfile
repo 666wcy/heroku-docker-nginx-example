@@ -1,3 +1,3 @@
-FROM benchao/aria:1.0
+FROM benchao/aria:1.1
 
 
